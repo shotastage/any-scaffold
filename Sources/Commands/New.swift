@@ -6,6 +6,7 @@
 //
 
 import ArgumentParser
+import ShellSwift
 
 struct New: ParsableCommand {
     static let configuration = CommandConfiguration(
